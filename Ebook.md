@@ -9,4 +9,4 @@
 ⌨️ **Prompts** utilizados no projeto::
 
 - Canva - AI Image Generator: 
-> "Uma cobra python fofa com olhar meigo. Com tons de amarelo e azul, com pontos de brilho e sombra. Estilo aquarela e contorno em lápis de cor."
+> Capa: "Uma cobra python fofa com olhar meigo. Com tons de amarelo e azul, com pontos de brilho e sombra. Estilo aquarela e contorno em lápis de cor."
