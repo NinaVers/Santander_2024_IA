@@ -1,8 +1,4 @@
-# Resolução de desafio da DIO - Criando um Ebook com as facilidades das ferramentas de I.A.s  📘🤖
-
-Projeto EBOOK Gerado por I.A.s
-
-Todos os prompts seguem abaixo.
+# Resolução de desafio da DIO - Criando um Ebook com I.A.s  📘🤖
 
 💻 Tecnologias utilizadas no projeto:
 
