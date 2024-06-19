@@ -1,4 +1,4 @@
-# Resolução de desafio da DIO - Criando um Ebook com as facilidades das ferramentas de I.A.s  📘 :robot
+# Resolução de desafio da DIO - Criando um Ebook com as facilidades das ferramentas de I.A.s  📘🤖
 
 Projeto EBOOK Gerado por I.A.s
 
