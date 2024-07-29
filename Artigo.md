@@ -1,5 +1,8 @@
 Projeto Criando Artigo Técnico 📰
 
+![image](https://github.com/user-attachments/assets/ad0d1196-9708-414f-8d02-a3a3bb963c00)
+
+
 Para ler o artigo na integra [clique aqui](https://web.dio.me/articles/aprendizado-de-maquina-supervisionado-vs-nao-supervisionado?back=%2Farticles&page=1&order=oldest)
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
