@@ -21,3 +21,6 @@
 > - Conteúdo - Texto principal: Escreva um texto para um ebook de 7 capítulos, com foco em python. Listando as primeiras etapas que devem ser realizadas para aprender a programar em python com exemplos em código. {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Tenha uma temática de Van Gogh nos exemplos; Sempre traga exemplos de código em contextos reais; Sempre crie um título sugestivo por tópico.
 > - Conteúdo - complementar: "Escreva um capítulo para o e-book sobre o uso de (Nome do tema do capítulo) em python. {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto;; Tenha uma temática de Van Gogh nos exemplos; Sempre traga exemplos de código em contextos reais; Sempre crie um título sugestivo por tópico."
 
+
+📖 [Clique aqui para ler o Ebook](https://github.com/NinaVers/Santander_2024_IA/blob/97f06f52404be1be4cecc56f62487f3c9dd1f220/Ebook%20-%20Desafio%20Dio%20-%20Nina.pdf)
+
