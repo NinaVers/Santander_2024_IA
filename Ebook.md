@@ -1,4 +1,4 @@
-# Resolução de desafio da DIO - Criando um Ebook com I.A.s  📘🤖🌻⭐
+# Resolução de desafio da DIO - Criando um Ebook com I.A.s  📘🤖🌻
 
 ![image](https://github.com/user-attachments/assets/dc5cacd5-f4d1-4f37-8f23-f1fa2f741d7a)
 
