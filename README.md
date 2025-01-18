@@ -5,3 +5,4 @@ Resolução dos desafios do Bootcamp Santander 2024 - Fundamentos de IA para Dev
 2. Criando Artigos Técnicos com ChatGPT e Lexica.art 📰
 3. Criando um Podcast com IAs Generativas 🎙️
 4. Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! 🤖
+5. Criando uma planilha para controle financeiro 💰
