@@ -7,7 +7,7 @@ Conjunto de Regras para identificar a bandeira:
 2. Open Chat
 3. Criar arquivo index.js
 4. Anexar base e o index.js
-5. Passar promt de instruções em inglês: "Create a function in JavaScript to validade a credit card number based in image 'base.png' to discover the field 'bandeira' "
+5. Passar *promt* de instruções em inglês: "Create a function in JavaScript to validade a credit card number based in image 'base.png' to discover the field 'bandeira' "
 6. Inserir onde está o cursor
 7. Verificar código gerado e realizar ajustes se necessário
-8. Usar o site [4devs](https://www.4devs.com.br/validador_numero_cartao_credito) para criar um número aleatório de cartão para testar o funcionamento
+8. Usar o site [4devs](https://www.4devs.com.br/gerador_de_numero_cartao_credito) para criar um número aleatório de cartão para testar o funcionamento
