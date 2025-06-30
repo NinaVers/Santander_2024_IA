@@ -12,6 +12,10 @@
 
 ### Etapas:
 - Criação da planilha no Excel configuração de layout e formatação dos visualizadores;
+- Criação do nome da ferramenta no Copilot. **Prompt** utilizado: "Sugerir nomes para a ferramenta. {REGRAS} Deve ser curto no máximo 10 caracteres, formal e chamativo."
+
+    *Nome escolhido: FiiOne*
+
 - Criação de banner no Copilot. **Prompt** utilizado: "Criar um banner para uma ferramenta de investimentos em fundos imobiliários. Deve ser de cor azul e estilo cartoon."
 ![alt text](image.png)
 
